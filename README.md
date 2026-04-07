@@ -1,4 +1,4 @@
-# AngularMaterialWallet
+0xc256a6869dcc04af795c0f040b30f4a3fa9d3007
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.2.
 
